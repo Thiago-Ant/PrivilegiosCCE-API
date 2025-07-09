@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\controllers\\privilegioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\controllers\\privilegioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\privilegiosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\privilegiosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\data\\privilegioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\data\\privilegioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\models\\participacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\models\\participacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|c:\\users\\thiag\\desktop\\projects\\asp .net\\privilegioscce\\privilegioscce\\privilegiosapi\\models\\privilegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EEEA1-9A89-49EB-A54B-5E709FAE4253}|PrivilegiosAPI\\PrivilegiosAPI.csproj|solutionrelative:privilegiosapi\\models\\privilegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrivilegiosController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Controllers\\PrivilegiosController.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Controllers\\PrivilegiosController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Controllers\\PrivilegiosController.cs",
+              "RelativeToolTip": "PrivilegiosAPI\\Controllers\\PrivilegiosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:01:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "PrivilegiosAPI\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:31:00.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Program.cs*",
+              "RelativeToolTip": "PrivilegiosAPI\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:31:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrivilegiosAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\PrivilegiosAPI.csproj",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\PrivilegiosAPI.csproj",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\PrivilegiosAPI.csproj",
+              "RelativeToolTip": "PrivilegiosAPI\\PrivilegiosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T03:31:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrivilegiosContext.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Data\\PrivilegiosContext.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Data\\PrivilegiosContext.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Data\\PrivilegiosContext.cs",
+              "RelativeToolTip": "PrivilegiosAPI\\Data\\PrivilegiosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:30:55.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Participacion.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Models\\Participacion.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Models\\Participacion.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Models\\Participacion.cs",
+              "RelativeToolTip": "PrivilegiosAPI\\Models\\Participacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:14:15.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privilegio.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Models\\Privilegio.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Models\\Privilegio.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Models\\Privilegio.cs",
+              "RelativeToolTip": "PrivilegiosAPI\\Models\\Privilegio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:11:47.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Models\\Miembro.cs",
+              "RelativeDocumentMoniker": "PrivilegiosAPI\\Models\\Miembro.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\PROJECTS\\ASP .NET\\PrivilegiosCCE\\PrivilegiosCCE\\PrivilegiosAPI\\Models\\Miembro.cs",
+              "RelativeToolTip": "PrivilegiosAPI\\Models\\Miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:09:27.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

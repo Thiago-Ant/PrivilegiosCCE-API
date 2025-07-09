@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "PrivilegiosAPI.Controllers.PrivilegiosController",
+    "Method": "GetPrivilegios",
+    "RelativePath": "api/Privilegios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
