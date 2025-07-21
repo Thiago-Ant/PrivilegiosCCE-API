@@ -7,7 +7,14 @@ var builder = WebApplication.CreateBuilder(args);
 //Conexion a SqlServer
 builder.Services.AddDbContext<PrivilegiosContext>(
     options =>
-        options.UseSqlServer("Server=THIAGO-ANT\\SQLEXPRESS; Database=PrivilegiosDb; Trusted_Connection=True; TrustServerCertificate=True;"));
+        options.UseSqlServer("workstation id=PrivilegiosDb.mssql.somee.com;packet size=4096;user id=thiago-antinori_SQLLogin_1;pwd=b7c36t86bv;data source=PrivilegiosDb.mssql.somee.com;persist security info=False;initial catalog=PrivilegiosDb;TrustServerCertificate=True", sqlOptions =>
+        {
+            sqlOptions.EnableRetryOnFailure(
+                maxRetryCount: 5,
+                maxRetryDelay: TimeSpan.FromSeconds(10),
+                errorNumbersToAdd: null
+            );
+        }));
 
 // Add services to the container.
 

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGmNEQCaxmEeilrIZNF3dlgAAAAACAAAAAAAQZgAAAAEAACAAAAAWNR22raY5XUAnTMc4Ps5NJqmW2wJHpYK3nVKSK3FA2AAAAAAOgAAAAAIAACAAAADRrwpUaNx7WnwNebDDKNeiGlYftKrBaOnuJq17MKdOwTAAAAAFoTq/SSyM37unxycTzBlXIlKLbKogjphL5HQzcY3Tza+Ft+rcZQKbbW+nlmaObuRAAAAAoiiFrhyQGVTdIXQ7EEqw5C0lyaPZmZ9Z8ttI9PI4CJW7ItJr9kaYP9Cf0F8upFwfilnMEzLWDWZsfeMRrEJFDg==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://Privilegios API/http://privilegiosapi.somee.com/</_PublishTargetUrl>
+    <History>False|2025-07-09T13:51:32.4371385Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

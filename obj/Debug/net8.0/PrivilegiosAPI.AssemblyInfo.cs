@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrivilegiosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3063db90867d1ce628adc582e686e4341e68214")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrivilegiosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrivilegiosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
